@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b1cb015.chunk.css",
+    "main.js": "/static/js/main.654bbc6d.chunk.js",
+    "main.js.map": "/static/js/main.654bbc6d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.fc14d19b.js",
+    "runtime~main.js.map": "/static/js/runtime~main.fc14d19b.js.map",
+    "static/css/2.7eda73eb.chunk.css": "/static/css/2.7eda73eb.chunk.css",
+    "static/js/2.4b9e04df.chunk.js": "/static/js/2.4b9e04df.chunk.js",
+    "static/js/2.4b9e04df.chunk.js.map": "/static/js/2.4b9e04df.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.552b9217e8c3fe05b3f00e4ccf8c914d.js": "/precache-manifest.552b9217e8c3fe05b3f00e4ccf8c914d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7eda73eb.chunk.css.map": "/static/css/2.7eda73eb.chunk.css.map",
+    "static/css/main.0b1cb015.chunk.css.map": "/static/css/main.0b1cb015.chunk.css.map",
+    "static/media/edit-regular.svg": "/static/media/edit-regular.7b0dc7ee.svg"
+  }
+}
