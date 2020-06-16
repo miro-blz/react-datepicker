@@ -635,8 +635,10 @@ export function timesToInjectAfter(
     );
 
     if (
-      isAfter(injectedTime, currentTime) &&
-      isBefore(injectedTime, nextTime)
+      (
+        isAfter(injectedTime, currentTime) 
+        || isEqual(injectedTime, currentTime)
+      ) && isBefore(injectedTime, nextTime) 
     ) {
       times.push(injectedTimes[i]);
     }
